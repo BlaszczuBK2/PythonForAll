@@ -1,0 +1,4 @@
+brygida;jaensch;20
+kamil;blaszczyk;20
+julia;jakastam;16
+damian;blaszczyk;16
